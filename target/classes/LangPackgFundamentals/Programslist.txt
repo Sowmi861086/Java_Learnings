@@ -1,0 +1,5 @@
+Write a program to print all the methods in the Object class or any other class
+Write the programs to display the o/p of the customized class object that is created in java without overriding toString().
+write a program to say that the string class, collection framework, and wrapper classes that overrides object class tostring method 
+write a program to tell what is proper and improper hashing?
+how equals method is implemneted in string class?
